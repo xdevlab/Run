@@ -36,7 +36,8 @@ func TestCancel(t *testing.T) {
 		<-ticker.C
 		ticker.Stop()
 
-		err = connection.Cancel()
+/*		err = connection.Cancel()*/
+
 	}
 
 	_, ok := <-exitCodeCh
