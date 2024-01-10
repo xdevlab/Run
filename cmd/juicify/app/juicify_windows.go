@@ -10,9 +10,9 @@ import (
 
 	"github.com/kolesnikovae/go-winjob"
 
-	"github.com/Juice-Labs/Juice-Labs/pkg/errors"
-	"github.com/Juice-Labs/Juice-Labs/pkg/task"
-	pkgWinjob "github.com/Juice-Labs/Juice-Labs/pkg/winjob"
+	"github.com/Xdevlab/Run/pkg/errors"
+	"github.com/Xdevlab/Run/pkg/task"
+	pkgWinjob "github.com/Xdevlab/Run/pkg/winjob"
 )
 
 // #include "version_windows.h"

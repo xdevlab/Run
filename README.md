@@ -1,6 +1,6 @@
 **[Join our Discord Server](https://discord.gg/xWHXNX8b3V) for ideas, questions, and feedback**
 
-## See [Welcome to Juice GPU-over-IP](https://github.com/Juice-Labs/Juice-Labs/wiki)
+## See [Welcome to Juice GPU-over-IP](https://github.com/Xdevlab/Run/wiki)
 
 We're offering up our Community Version here for your use, which is governed by these [Terms and Conditions](https://github.com/Juice-Labs/juice-hub/wiki/Terms-and-Conditions).
 
@@ -22,4 +22,4 @@ GPU capacity is increasingly critical to major trends in computing, but its use 
 
 ***
 
-Please go to [Welcome to Juice GPU-over-IP](https://github.com/Juice-Labs/Juice-Labs/wiki) for the full picture.
+Please go to [Welcome to Juice GPU-over-IP](https://github.com/Xdevlab/Run/wiki) for the full picture.
